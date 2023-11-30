@@ -1,15 +1,15 @@
 {
-  "name": "jest-subpath-import",
+  "name": "autokaas",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ottokruse/jest-subpath-import.git"
+    "url": "git+https://github.com/RashmiPal/autokaas.git"
   },
-  "homepage": "https://github.com/ottokruse/jest-subpath-import#readme",
+  "homepage": "https://github.com/RashmiPal/autokaas.git",
   "dependencies": {
     "aws-jwt-verify": "^3.0.0"
   },
